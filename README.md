@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [Striversde--sheet](https://github.com/04amritam/striversde-sheet)
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **amritanandpandey@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1K_gqISDxkBPvnHq3bvnb7rpbTdyf7e1C/view?usp=sharing](https://drive.google.com/file/d/1K_gqISDxkBPvnHq3bvnb7rpbTdyf7e1C/view?usp=sharing)
